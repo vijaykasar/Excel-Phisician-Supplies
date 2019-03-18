@@ -185,11 +185,27 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     padding: 10px;
     font-size:25px;
 }
-.why_us_item > h4 {
+.why_us_item1 > h4 {
     font-size: 15px;
     margin: 60px 0 20px;
-}
+    color: blue;
 
+}
+.why_us_item2 > h4 {
+    font-size: 15px;
+    margin: 60px 0 20px;
+    color: blue;
+    
+}
+.why_us_item1{
+ border-right: 2px solid black;
+ height: 180px;
+    margin-top: 15%;
+ 
+}
+.why_us_item2{
+    margin-top: 15%;
+}
 /* Services */
 #services h2 {
     margin: 85px 0 50px;
@@ -201,7 +217,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 .service_item .btn.know_btn {
     margin: 20px 0 100px;
 }
-
+}
 
 
 /* ScrollUP */
